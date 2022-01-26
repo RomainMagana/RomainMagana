@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-
-https://user-images.githubusercontent.com/54882222/151084805-b64527e2-aeed-4405-b980-1664f041350a.mp4
+![Welcome on my github](https://user-images.githubusercontent.com/54882222/151084843-ba43b552-7ca3-4793-a10f-5291df114af0.gif)
 
 
 <!--
