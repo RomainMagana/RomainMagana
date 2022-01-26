@@ -3,4 +3,4 @@
 
 ## 📫 How to reach me
 - 📱 <a href="https://www.linkedin.com/in/romain-magana-804b6a1a9">Linkedin</a>
-- 💾 Website https://magana-romain.fr
+- 💾 <a href="https://magana-romain.fr">Personnal Website</a>
